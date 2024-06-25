@@ -1,0 +1,29 @@
+=========================================
+             Land Rent Receipt            
+=========================================
+Kitta No: 114
+Name: anmol
+Rented Months: 12
+City: Birtamod
+Direction: North
+Area: 12 sqft
+Rent Amount: Rs. 1440000
+=========================================
+====================================================
+                 Returned Land Invoice               
+====================================================
+Kitta No: 114
+Name: anmol
+Rented Months: 12
+Returned month: 16
+City: Birtamod
+Direction: North
+Fine Amount: Rs. 20000
+Area: 12 sqft
+Rent Amount: Rs. 1440000
+----------------------------------------------------
+Final Cost: Rs. 1460000
+====================================================
+
+
+
